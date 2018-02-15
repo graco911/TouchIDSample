@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TouchIDSample", "TouchIDSample\TouchIDSample.csproj", "{C246962F-41F4-4905-8592-C3740377DC03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C246962F-41F4-4905-8592-C3740377DC03}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{C246962F-41F4-4905-8592-C3740377DC03}.Debug|iPhone.Build.0 = Debug|iPhone
+		{C246962F-41F4-4905-8592-C3740377DC03}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{C246962F-41F4-4905-8592-C3740377DC03}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{C246962F-41F4-4905-8592-C3740377DC03}.Release|iPhone.ActiveCfg = Release|iPhone
+		{C246962F-41F4-4905-8592-C3740377DC03}.Release|iPhone.Build.0 = Release|iPhone
+		{C246962F-41F4-4905-8592-C3740377DC03}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{C246962F-41F4-4905-8592-C3740377DC03}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44BBCB0C-3A1F-4379-B8EA-8E189A18D2DD}
+	EndGlobalSection
+EndGlobal
